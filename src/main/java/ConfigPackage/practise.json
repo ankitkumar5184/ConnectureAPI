@@ -1,0 +1,3810 @@
+{
+  "Total": 116,
+  "Providers": [
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1215975834,
+      "FirstName": "JEFFREY",
+      "LastName": "LEACH",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. JEFFREY LEACH",
+      "Phone": "9032846105",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1699050112,
+      "FirstName": "JEFFREY",
+      "LastName": "GAROFALO",
+      "MiddleName": "JAMES",
+      "Suffix": null,
+      "Title": "MR.",
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "MR. JEFFREY JAMES GAROFALO",
+      "Phone": "7173564240",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1467454033,
+      "FirstName": "JEFFREY",
+      "LastName": "MARKS",
+      "MiddleName": "ALAN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Podiatrist",
+      "OrganizationName": null,
+      "PresentationName": "JEFFREY ALAN MARKS",
+      "Phone": "7176977602",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76955",
+          "Longitude": "-76.67626",
+          "State": "PA",
+          "StreetLine1": "73 E Forrest Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "b8bf13fa-eefe-34f2-8b47-8e78808fc9fd",
+          "PhoneNumbers": [
+            "7172352272"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1124539465,
+      "FirstName": "JEFFREY",
+      "LastName": "DUTTERA",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Hearing Instrument Specialist",
+      "OrganizationName": null,
+      "PresentationName": "JEFFREY DUTTERA",
+      "Phone": "7179422049",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7179422049",
+            "8005985300"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1639418171,
+      "FirstName": "JEFFREY",
+      "LastName": "SELZNICK",
+      "MiddleName": "LEWIS",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Dentist",
+      "OrganizationName": null,
+      "PresentationName": "DR. JEFFREY LEWIS SELZNICK",
+      "Phone": "4105578314",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.63622",
+          "Longitude": "-76.47041",
+          "State": "MD",
+          "StreetLine1": "4051 Federal Hill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "ec6bf7c5-459a-3e44-92f8-1d82c1680fa2",
+          "PhoneNumbers": [
+            "4106926166"
+          ]
+        },
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.64793",
+          "Longitude": "-76.45611",
+          "State": "MD",
+          "StreetLine1": "1818 Midsummer Ln",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "22af81db-f8e2-3400-b401-aba6698a00e5",
+          "PhoneNumbers": [
+            "4105578314"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1275506651,
+      "FirstName": "WILLIAM",
+      "LastName": "DAVIS",
+      "MiddleName": "JEFFREY",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. WILLIAM JEFFREY DAVIS",
+      "Phone": "7179932543",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Stewartstown",
+          "Latitude": "39.7552",
+          "Longitude": "-76.5974",
+          "State": "PA",
+          "StreetLine1": "200 Bailey Dr",
+          "StreetLine2": "Ste 101",
+          "ZipCode": "17363",
+          "Id": "eaed2f66-1a2d-3c8e-b2bb-edbdd9e7c562",
+          "PhoneNumbers": [
+            "7179932044",
+            "7179932543",
+            "7179939258"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1437185212,
+      "FirstName": "BRIAN",
+      "LastName": "TAYLOR",
+      "MiddleName": "J",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. BRIAN J TAYLOR",
+      "Phone": "7178122501",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        },
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": "Ste C",
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7178122501",
+            "7178127278",
+            "7178516816"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1093782153,
+      "FirstName": "JEFFRIES",
+      "LastName": "BUCCI",
+      "MiddleName": "L.G.",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Pediatrics",
+      "OrganizationName": null,
+      "PresentationName": "JEFFRIES L.G. BUCCI",
+      "Phone": "4102962300",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Parkton",
+          "Latitude": "39.5911",
+          "Longitude": "-76.66751",
+          "State": "MD",
+          "StreetLine1": "111 Mount Carmel Rd",
+          "StreetLine2": null,
+          "ZipCode": "21120",
+          "Id": "071c0b5d-4cc9-3e8b-bd19-e20c61029520",
+          "PhoneNumbers": [
+            "4102962300",
+            "4103430900"
+          ]
+        },
+        {
+          "City": "Parkton",
+          "Latitude": "39.59123",
+          "Longitude": "-76.67032",
+          "State": "MD",
+          "StreetLine1": "214 Mount Carmel Rd",
+          "StreetLine2": null,
+          "ZipCode": "21120",
+          "Id": "b7e77fbb-9408-3e30-82cd-54c3f1c343a2",
+          "PhoneNumbers": [
+            "4102962300",
+            "4103430900"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1831511344,
+      "FirstName": "SAMANTHA",
+      "LastName": "BARON",
+      "MiddleName": "L",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "SAMANTHA L BARON",
+      "Phone": "4105520773",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76955",
+          "Longitude": "-76.67626",
+          "State": "PA",
+          "StreetLine1": "73 E Forrest Ave",
+          "StreetLine2": "Ste 340",
+          "ZipCode": "17361",
+          "Id": "b8bf13fa-eefe-34f2-8b47-8e78808fc9fd",
+          "PhoneNumbers": [
+            "7172350199"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1770545089,
+      "FirstName": "GEOFFREY",
+      "LastName": "HONEYSETT",
+      "MiddleName": "SCOTT",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "GEOFFREY SCOTT HONEYSETT",
+      "Phone": "7179202620",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1306995659,
+      "FirstName": "BARBARA",
+      "LastName": "HOFMEISTER",
+      "MiddleName": "ANN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "BARBARA ANN HOFMEISTER",
+      "Phone": "7178125229",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        },
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": "Ste B",
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7178127278"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1992735328,
+      "FirstName": "BARBARA",
+      "LastName": "ROTH",
+      "MiddleName": "R.",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Social Worker",
+      "OrganizationName": null,
+      "PresentationName": "BARBARA R. ROTH",
+      "Phone": "4102563200",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.60276",
+          "Longitude": "-76.48146",
+          "State": "MD",
+          "StreetLine1": "3718 Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "38716355-2cb6-3d52-b307-495ae050fcd1",
+          "PhoneNumbers": [
+            "4106925292"
+          ]
+        },
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51907",
+          "Longitude": "-76.5621",
+          "State": "MD",
+          "StreetLine1": "3346 Paper Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "25708c77-892a-3667-93eb-ff6882674f72",
+          "PhoneNumbers": [
+            "4106664060"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1730531138,
+      "FirstName": "BARBARA",
+      "LastName": "MAGEE",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Dentist",
+      "OrganizationName": null,
+      "PresentationName": "BARBARA MAGEE",
+      "Phone": "2156434740",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75138",
+          "Longitude": "-76.67736",
+          "State": "PA",
+          "StreetLine1": "620 S Main St",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "bc0c3d7c-4c27-3e9b-bc47-10dd4a828021",
+          "PhoneNumbers": [
+            "7172357010",
+            "7172357015"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1023099223,
+      "FirstName": "BARRY",
+      "LastName": "WEINER",
+      "MiddleName": "M",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Optometrist",
+      "OrganizationName": null,
+      "PresentationName": "DR. BARRY M WEINER",
+      "Phone": "4106281510",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Parkton",
+          "Latitude": "39.5911",
+          "Longitude": "-76.66751",
+          "State": "MD",
+          "StreetLine1": "111 Mount Carmel Rd",
+          "StreetLine2": "Ste 600",
+          "ZipCode": "21120",
+          "Id": "071c0b5d-4cc9-3e8b-bd19-e20c61029520",
+          "PhoneNumbers": [
+            "4103296700",
+            "4108219490"
+          ]
+        },
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51907",
+          "Longitude": "-76.5621",
+          "State": "MD",
+          "StreetLine1": "3332 Paper Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "19be2e72-461b-33a7-b2f1-866f46bf54f4",
+          "PhoneNumbers": [
+            "4106281510"
+          ]
+        },
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51699",
+          "Longitude": "-76.55808",
+          "State": "MD",
+          "StreetLine1": "3421 Sweet Air Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "7d73766a-0b30-330c-b11d-6de2cd7320d1",
+          "PhoneNumbers": [
+            "4106281510"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1679294011,
+      "FirstName": "RYANNE",
+      "LastName": "CAREY",
+      "MiddleName": "DELANEY",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Social Worker",
+      "OrganizationName": null,
+      "PresentationName": "RYANNE DELANEY CAREY",
+      "Phone": null,
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "White Hall",
+          "Latitude": "39.68493",
+          "Longitude": "-76.51526",
+          "State": "MD",
+          "StreetLine1": "2623 Urey Rd",
+          "StreetLine2": null,
+          "ZipCode": "21161",
+          "Id": "b17c8102-f325-3dc6-b41d-a3c501813b14",
+          "PhoneNumbers": []
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1972855369,
+      "FirstName": "BARBETTA",
+      "LastName": "MOFFATT",
+      "MiddleName": "ANN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "BARBETTA ANN MOFFATT",
+      "Phone": "7173392390",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1013312669,
+      "FirstName": "BARRY",
+      "LastName": "ROTT",
+      "MiddleName": "A",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "BARRY A ROTT",
+      "Phone": "7178512521",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1891450284,
+      "FirstName": "REECE",
+      "LastName": "BARTELL",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "REECE BARTELL",
+      "Phone": "3616603474",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1750666715,
+      "FirstName": "JENNY",
+      "LastName": "THACKSTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "MS.",
+      "Specialty": "Speech-Language Pathologist",
+      "OrganizationName": null,
+      "PresentationName": "MS. JENNY THACKSTON",
+      "Phone": "4109139995",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "White Hall",
+          "Latitude": "39.64995",
+          "Longitude": "-76.61921",
+          "State": "MD",
+          "StreetLine1": "1712 Stablersville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21161",
+          "Id": "26fa8685-4beb-33b8-a6ce-1965e30872df",
+          "PhoneNumbers": [
+            "4109139995"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1053432971,
+      "FirstName": "BARBARA",
+      "LastName": "BRITTELL",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "BARBARA BRITTELL",
+      "Phone": "7078844005",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1497781991,
+      "FirstName": "KWADWO",
+      "LastName": "BARYEH",
+      "MiddleName": "BOADI",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Obstetrics & Gynecology",
+      "OrganizationName": null,
+      "PresentationName": "DR. KWADWO BOADI BARYEH",
+      "Phone": "7173374487",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7177151310",
+            "7178122540",
+            "7178122549"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1639311962,
+      "FirstName": "JULIA",
+      "LastName": "BARBER",
+      "MiddleName": "CLAIRE",
+      "Suffix": null,
+      "Title": "MS.",
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MS. JULIA CLAIRE BARBER",
+      "Phone": "7172359890",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890",
+            "7172359894"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1003874884,
+      "FirstName": "KYLE",
+      "LastName": "BARNETT",
+      "MiddleName": "W",
+      "Suffix": null,
+      "Title": "MR.",
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MR. KYLE W BARNETT",
+      "Phone": "7178484800",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890",
+            "7172717954"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1023569266,
+      "FirstName": "RACHEL",
+      "LastName": "BARBARINO",
+      "MiddleName": "RENEE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "RACHEL RENEE BARBARINO",
+      "Phone": "4102272094",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1215071691,
+      "FirstName": "JAMES",
+      "LastName": "BARONAS",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "JAMES BARONAS",
+      "Phone": "4439214683",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51907",
+          "Longitude": "-76.5621",
+          "State": "MD",
+          "StreetLine1": "3346 Paper Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "25708c77-892a-3667-93eb-ff6882674f72",
+          "PhoneNumbers": [
+            "4106664060",
+            "4106833380"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1972029148,
+      "FirstName": "CHRISTINA",
+      "LastName": "BARRA",
+      "MiddleName": "MARIE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "CHRISTINA MARIE BARRA",
+      "Phone": "2024447073",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Sparks Glencoe",
+          "Latitude": "39.52643",
+          "Longitude": "-76.64493",
+          "State": "MD",
+          "StreetLine1": "909 Ridgebrook Rd",
+          "StreetLine2": "Ste 300",
+          "ZipCode": "21152",
+          "Id": "80265a9d-2657-388b-ab0b-e131bee753bd",
+          "PhoneNumbers": [
+            "4433839300"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1003997693,
+      "FirstName": "BARBARA",
+      "LastName": "COCHRAN",
+      "MiddleName": "ANNE",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Internal Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. BARBARA ANNE COCHRAN",
+      "Phone": "4104673690",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Freeland",
+          "Latitude": "39.70053",
+          "Longitude": "-76.72841",
+          "State": "MD",
+          "StreetLine1": "21000 S Ruhl Rd",
+          "StreetLine2": null,
+          "ZipCode": "21053",
+          "Id": "f0fb2c3b-87e0-32b3-a1fc-1e14c8655ef6",
+          "PhoneNumbers": [
+            "4104673690"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1851920912,
+      "FirstName": "BARBARA",
+      "LastName": "SPRENKLE",
+      "MiddleName": "J",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "BARBARA J SPRENKLE",
+      "Phone": "7178125601",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76955",
+          "Longitude": "-76.67626",
+          "State": "PA",
+          "StreetLine1": "73 E Forrest Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "b8bf13fa-eefe-34f2-8b47-8e78808fc9fd",
+          "PhoneNumbers": [
+            "7178125601"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1720324346,
+      "FirstName": "SAMUEL",
+      "LastName": "MEANS",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "SAMUEL MEANS",
+      "Phone": "7178430800",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76955",
+          "Longitude": "-76.67626",
+          "State": "PA",
+          "StreetLine1": "73 E Forrest Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "b8bf13fa-eefe-34f2-8b47-8e78808fc9fd",
+          "PhoneNumbers": [
+            "7172350199"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1629101381,
+      "FirstName": "KENNETH",
+      "LastName": "SHAROFF",
+      "MiddleName": "BARRY",
+      "Suffix": null,
+      "Title": "MR.",
+      "Specialty": "Social Worker",
+      "OrganizationName": null,
+      "PresentationName": "MR. KENNETH BARRY SHAROFF",
+      "Phone": "4107714070",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.52972",
+          "Longitude": "-76.62293",
+          "State": "MD",
+          "StreetLine1": "1 Cross Creek Ct",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "174bdbfc-7afd-3d63-b410-47fa9448c542",
+          "PhoneNumbers": [
+            "4107714070"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1639154982,
+      "FirstName": "JULIE",
+      "LastName": "SHAFFREY",
+      "MiddleName": "KATHLEEN",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Radiology",
+      "OrganizationName": null,
+      "PresentationName": "DR. JULIE KATHLEEN SHAFFREY",
+      "Phone": "9525951301",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Parkton",
+          "Latitude": "39.64189",
+          "Longitude": "-76.6763",
+          "State": "MD",
+          "StreetLine1": "20016 Hunt Pass Ct",
+          "StreetLine2": "",
+          "ZipCode": "21120",
+          "Id": "6c43e111-45d6-39da-8e5c-ca8fcaf387e5",
+          "PhoneNumbers": [
+            "9525951100"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1295994242,
+      "FirstName": "ADEDAMOLA",
+      "LastName": "FALOKUN",
+      "MiddleName": "ADETOLA",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. ADEDAMOLA ADETOLA FALOKUN",
+      "Phone": "7178122400",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400",
+            "7178516816"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1720682065,
+      "FirstName": "JENNIFER",
+      "LastName": "FISHER",
+      "MiddleName": "LAUREN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "JENNIFER LAUREN FISHER",
+      "Phone": "7173161738",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75945",
+          "Longitude": "-76.66978",
+          "State": "PA",
+          "StreetLine1": "16324 Mount Airy Rd",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "ec69fa04-65b5-35d5-92d6-6c4c381d36c8",
+          "PhoneNumbers": [
+            "7177189972",
+            "7178495576"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1518350487,
+      "FirstName": "CAREY",
+      "LastName": "REISE",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "MRS.",
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MRS. CAREY REISE",
+      "Phone": "4106929180",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.60276",
+          "Longitude": "-76.48146",
+          "State": "MD",
+          "StreetLine1": "3718B Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "7d3c8301-ebc6-3b07-820f-b93f6b06753a",
+          "PhoneNumbers": [
+            "4106929180"
+          ]
+        },
+        {
+          "City": "JARRETTSVILLE",
+          "Latitude": "39.613714",
+          "Longitude": "-76.457303",
+          "State": "MD",
+          "StreetLine1": "3715 Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "35e90e07-39fe-3d41-a4ac-aeef37e5bba5",
+          "PhoneNumbers": [
+            "4106929180"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1043330558,
+      "FirstName": "JOSEPH",
+      "LastName": "CLARK",
+      "MiddleName": "BRIAN",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Pediatrics",
+      "OrganizationName": null,
+      "PresentationName": "DR. JOSEPH BRIAN CLARK",
+      "Phone": "8002431455",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75349",
+          "Longitude": "-76.67937",
+          "State": "PA",
+          "StreetLine1": "15 Constitution Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "e2763994-6f58-3b68-971f-8a03934c9205",
+          "PhoneNumbers": [
+            "7172358045",
+            "8002431455"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1639582349,
+      "FirstName": "COREY",
+      "LastName": "HIGGINS",
+      "MiddleName": "MICHAEL",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "COREY MICHAEL HIGGINS",
+      "Phone": "7177640144",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1275549412,
+      "FirstName": "MICHELLE",
+      "LastName": "MCCARTY",
+      "MiddleName": "R",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Occupational Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MICHELLE R MCCARTY",
+      "Phone": "4108386808",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "White Hall",
+          "Latitude": "39.61422",
+          "Longitude": "-76.52309",
+          "State": "MD",
+          "StreetLine1": "4105 Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21161",
+          "Id": "a66c09de-8b20-3d66-833c-6e3d154bea11",
+          "PhoneNumbers": [
+            "4106922941",
+            "4106926073"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1366919375,
+      "FirstName": "BRIDGETTE",
+      "LastName": "CONNORTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Optometrist",
+      "OrganizationName": null,
+      "PresentationName": "DR. BRIDGETTE CONNORTON",
+      "Phone": "2257553937",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.60276",
+          "Longitude": "-76.48146",
+          "State": "MD",
+          "StreetLine1": "3718 Norrisville Rd",
+          "StreetLine2": "Ste A",
+          "ZipCode": "21084",
+          "Id": "38716355-2cb6-3d52-b307-495ae050fcd1",
+          "PhoneNumbers": [
+            "4105578800"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1477166049,
+      "FirstName": "SARAH",
+      "LastName": "REYNOLDS",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "SARAH REYNOLDS",
+      "Phone": "7172359890",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890",
+            "7172359894",
+            "7172717954"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1790133098,
+      "FirstName": "COREY",
+      "LastName": "GILDEA",
+      "MiddleName": "PATRICK",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "COREY PATRICK GILDEA",
+      "Phone": "8149315774",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1770076267,
+      "FirstName": "CONNOR",
+      "LastName": "SHIREY",
+      "MiddleName": "SCOTT",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "CONNOR SCOTT SHIREY",
+      "Phone": "8147628356",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1659664902,
+      "FirstName": "LISA",
+      "LastName": "CAREY",
+      "MiddleName": "MARIE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Internal Medicine",
+      "OrganizationName": null,
+      "PresentationName": "LISA MARIE CAREY",
+      "Phone": "3046911000",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51907",
+          "Longitude": "-76.5621",
+          "State": "MD",
+          "StreetLine1": "3346 Paper Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "25708c77-892a-3667-93eb-ff6882674f72",
+          "PhoneNumbers": [
+            "4106664060",
+            "4106664068"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1093059966,
+      "FirstName": "DEREK",
+      "LastName": "FRESHMAN",
+      "MiddleName": "ALAN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "DEREK ALAN FRESHMAN",
+      "Phone": "3026541700",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890",
+            "7172359894"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1689802092,
+      "FirstName": "DANIEL",
+      "LastName": "NEFF",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "DR. DANIEL NEFF",
+      "Phone": "7173904288",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.77295",
+          "Longitude": "-76.67104",
+          "State": "PA",
+          "StreetLine1": "14625 Mount Airy Rd",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "4a7ef86d-1cb1-3831-a67f-d3e61f3aa981",
+          "PhoneNumbers": [
+            "7175848744",
+            "7179016487"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1477106847,
+      "FirstName": "SCOTT",
+      "LastName": "HARRINGTON",
+      "MiddleName": "WHITNEY",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Social Worker",
+      "OrganizationName": null,
+      "PresentationName": "SCOTT WHITNEY HARRINGTON",
+      "Phone": "2403043327",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Monkton",
+          "Latitude": "39.60477",
+          "Longitude": "-76.63762",
+          "State": "MD",
+          "StreetLine1": "17433 Big Falls Rd",
+          "StreetLine2": null,
+          "ZipCode": "21111",
+          "Id": "15856057-a0a9-3daf-b53b-acb1c1efabeb",
+          "PhoneNumbers": [
+            "4105671117"
+          ]
+        },
+        {
+          "City": "Monkton",
+          "Latitude": "39.58048",
+          "Longitude": "-76.51383",
+          "State": "MD",
+          "StreetLine1": "3535 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21111",
+          "Id": "a7102b3f-330b-3918-8e48-33d49d08cd63",
+          "PhoneNumbers": [
+            "4105671117"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1255696829,
+      "FirstName": "MICHELLE",
+      "LastName": "KILHEFFER",
+      "MiddleName": "ANTOINETTE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MICHELLE ANTOINETTE KILHEFFER",
+      "Phone": "7173919920",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1235103292,
+      "FirstName": "MARCIA",
+      "LastName": "REYNOLDS",
+      "MiddleName": "VELEET",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "MARCIA VELEET REYNOLDS",
+      "Phone": "3026522455",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1023675345,
+      "FirstName": "JULIE",
+      "LastName": "EGLESTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "JULIE EGLESTON",
+      "Phone": "4107957878",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "White Hall",
+          "Latitude": "39.61404",
+          "Longitude": "-76.52815",
+          "State": "MD",
+          "StreetLine1": "4105 Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21161",
+          "Id": "a66c09de-8b20-3d66-833c-6e3d154bea11",
+          "PhoneNumbers": [
+            "4106922941"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1801944418,
+      "FirstName": "ALFRED",
+      "LastName": "HILLWIG",
+      "MiddleName": "J.",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Psychologist",
+      "OrganizationName": null,
+      "PresentationName": "DR. ALFRED J. HILLWIG",
+      "Phone": "4106281978",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51894",
+          "Longitude": "-76.56232",
+          "State": "MD",
+          "StreetLine1": "3313 Paper Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "b2735a32-5510-3163-b512-bc134120c76d",
+          "PhoneNumbers": [
+            "4106281978"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1689748816,
+      "FirstName": "AGATON",
+      "LastName": "ESCALANTE",
+      "MiddleName": "HOLAZO",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Internal Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. AGATON HOLAZO ESCALANTE",
+      "Phone": "4105579322",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.60301",
+          "Longitude": "-76.48655",
+          "State": "MD",
+          "StreetLine1": "3805 Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "feb3619a-7fed-319f-8ad9-c80f0dfd5a42",
+          "PhoneNumbers": [
+            "4105574451",
+            "4105579322"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1356837207,
+      "FirstName": "MARIAH",
+      "LastName": "BUFFINGTON",
+      "MiddleName": "LINN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MARIAH LINN BUFFINGTON",
+      "Phone": "4107346556",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "White Hall",
+          "Latitude": "39.61422",
+          "Longitude": "-76.52309",
+          "State": "MD",
+          "StreetLine1": "4105 Norrisville Rd",
+          "StreetLine2": null,
+          "ZipCode": "21161",
+          "Id": "a66c09de-8b20-3d66-833c-6e3d154bea11",
+          "PhoneNumbers": [
+            "4106922941"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1073997052,
+      "FirstName": "ADRIAN",
+      "LastName": "CRICHTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Optometrist",
+      "OrganizationName": null,
+      "PresentationName": "DR. ADRIAN CRICHTON",
+      "Phone": "7812332073",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Parkton",
+          "Latitude": "39.5911",
+          "Longitude": "-76.66751",
+          "State": "MD",
+          "StreetLine1": "111 Mount Carmel Rd",
+          "StreetLine2": "Ste 600",
+          "ZipCode": "21120",
+          "Id": "071c0b5d-4cc9-3e8b-bd19-e20c61029520",
+          "PhoneNumbers": [
+            "4103296700"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1275525750,
+      "FirstName": "ARTHUR",
+      "LastName": "KOVENS",
+      "MiddleName": "SHELDON",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Optometrist",
+      "OrganizationName": null,
+      "PresentationName": "DR. ARTHUR SHELDON KOVENS",
+      "Phone": "4103296700",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Parkton",
+          "Latitude": "39.5911",
+          "Longitude": "-76.66751",
+          "State": "MD",
+          "StreetLine1": "111 Mount Carmel Rd",
+          "StreetLine2": "Ste 600",
+          "ZipCode": "21120",
+          "Id": "071c0b5d-4cc9-3e8b-bd19-e20c61029520",
+          "PhoneNumbers": [
+            "4103296700",
+            "4103570278",
+            "4108335515"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1407359730,
+      "FirstName": "ELIZABETH",
+      "LastName": "HARTLEY",
+      "MiddleName": "BROOKE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Acupuncturist",
+      "OrganizationName": null,
+      "PresentationName": "ELIZABETH BROOKE HARTLEY",
+      "Phone": "2076643152",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Monkton",
+          "Latitude": "39.58658",
+          "Longitude": "-76.66296",
+          "State": "MD",
+          "StreetLine1": "16829 York Rd",
+          "StreetLine2": null,
+          "ZipCode": "21111",
+          "Id": "03bf587c-989e-30fa-bef2-07db5d7ad0a1",
+          "PhoneNumbers": [
+            "2076643152",
+            "4103575192"
+          ]
+        },
+        {
+          "City": "Freeland",
+          "Latitude": "39.67396",
+          "Longitude": "-76.72161",
+          "State": "MD",
+          "StreetLine1": "20015 Middletown Rd",
+          "StreetLine2": null,
+          "ZipCode": "21053",
+          "Id": "acaff455-c8a7-3b30-84a5-5538dee7c698",
+          "PhoneNumbers": [
+            "2076643152",
+            "4103575192"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1164606281,
+      "FirstName": "TOMARRA",
+      "LastName": "DALTON",
+      "MiddleName": "M",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "TOMARRA M DALTON",
+      "Phone": "7173393165",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1669840732,
+      "FirstName": "COURTNEY",
+      "LastName": "FREDERICK",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "COURTNEY FREDERICK",
+      "Phone": "3016817880",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1386678829,
+      "FirstName": "LAKSHMI",
+      "LastName": "PASUMARTHY",
+      "MiddleName": "SAKUNTALA",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Hospitalist",
+      "OrganizationName": null,
+      "PresentationName": "DR. LAKSHMI SAKUNTALA PASUMARTHY",
+      "Phone": "7177418003",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1588866214,
+      "FirstName": "MELVIN",
+      "LastName": "LUBART",
+      "MiddleName": "ELLIOTT",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Optometrist",
+      "OrganizationName": null,
+      "PresentationName": "DR. MELVIN ELLIOTT LUBART",
+      "Phone": "7177642437",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76683",
+          "Longitude": "-76.67174",
+          "State": "PA",
+          "StreetLine1": "698 Shrewsbury Commons Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "ea2b1c6e-50a6-3452-9538-80da73a5deff",
+          "PhoneNumbers": [
+            "7179914492"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1851438782,
+      "FirstName": "CARLOS",
+      "LastName": "SANDOVAL-MARTINEZ",
+      "MiddleName": "R",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "CARLOS R SANDOVAL-MARTINEZ",
+      "Phone": "7174772764",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1154496800,
+      "FirstName": "MORTON",
+      "LastName": "ORMAN",
+      "MiddleName": "CARL",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Internal Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. MORTON CARL ORMAN",
+      "Phone": "4107714094",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Sparks",
+          "Latitude": "39.56511",
+          "Longitude": "-76.67675",
+          "State": "MD",
+          "StreetLine1": "908 Cold Bottom Rd",
+          "StreetLine2": null,
+          "ZipCode": "21152",
+          "Id": "c3222bcc-16b2-3897-bd4d-a4793e5aa1d3",
+          "PhoneNumbers": [
+            "4107714094"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1396470985,
+      "FirstName": "NATALIE",
+      "LastName": "PRESTON",
+      "MiddleName": "ELIZABETH",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "NATALIE ELIZABETH PRESTON",
+      "Phone": "7173564240",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400",
+            "7178123005"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1043280704,
+      "FirstName": "CRESTON",
+      "LastName": "TATE",
+      "MiddleName": "M",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "CRESTON M TATE",
+      "Phone": "7178511566",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        },
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": "Ste B",
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7178127278"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1912047606,
+      "FirstName": "MARTIN",
+      "LastName": "SUGAR",
+      "MiddleName": "S.",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Dentist",
+      "OrganizationName": null,
+      "PresentationName": "DR. MARTIN S. SUGAR",
+      "Phone": "4108041217",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75332",
+          "Longitude": "-76.67642",
+          "State": "PA",
+          "StreetLine1": "25 Old Farm Ln",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "ebdd1665-61b0-363d-bb49-ee825a7e3491",
+          "PhoneNumbers": [
+            "7172353837"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1427706993,
+      "FirstName": "JASON",
+      "LastName": "HOUGHTON",
+      "MiddleName": "GREGORY",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "JASON GREGORY HOUGHTON",
+      "Phone": "7173564240",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": "Ste 208",
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1982290029,
+      "FirstName": "CRYSTAL",
+      "LastName": "PRESTON",
+      "MiddleName": "MARIE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "CRYSTAL MARIE PRESTON",
+      "Phone": "8002431455",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75349",
+          "Longitude": "-76.67937",
+          "State": "PA",
+          "StreetLine1": "13 Constitution Ave",
+          "StreetLine2": "",
+          "ZipCode": "17361",
+          "Id": "d7228930-9ac8-313b-9347-4e2b3f0bd721",
+          "PhoneNumbers": [
+            "7172356848",
+            "7177596770"
+          ]
+        },
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75349",
+          "Longitude": "-76.67937",
+          "State": "PA",
+          "StreetLine1": "15 Constitution Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "e2763994-6f58-3b68-971f-8a03934c9205",
+          "PhoneNumbers": [
+            "7172356848",
+            "7177596770",
+            "7178516816"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1700300597,
+      "FirstName": "ERIN",
+      "LastName": "NEWTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": "MRS.",
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "MRS. ERIN NEWTON",
+      "Phone": "4106887621",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Pylesville",
+          "Latitude": "39.68933",
+          "Longitude": "-76.47858",
+          "State": "MD",
+          "StreetLine1": "2111 Telegraph Rd",
+          "StreetLine2": null,
+          "ZipCode": "21132",
+          "Id": "706c7b1e-b08d-3430-b3f0-8030bd11c5ea",
+          "PhoneNumbers": [
+            "4106887621"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1891244968,
+      "FirstName": "KIMBERLY",
+      "LastName": "NORTON",
+      "MiddleName": "ANNA",
+      "Suffix": null,
+      "Title": "MS.",
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "MS. KIMBERLY ANNA NORTON",
+      "Phone": "4432796262",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1912542945,
+      "FirstName": "ISABELA",
+      "LastName": "GREENHOLT",
+      "MiddleName": "ANA",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "ISABELA ANA GREENHOLT",
+      "Phone": "7173393110",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.74833",
+          "Longitude": "-76.66561",
+          "State": "PA",
+          "StreetLine1": "96 Sofia Dr",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "1f1a92e5-4bdb-39dd-af63-2774a9aa4931",
+          "PhoneNumbers": [
+            "7178122400"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1417301292,
+      "FirstName": "ELIZABETH",
+      "LastName": "MCCARTHY",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "ELIZABETH MCCARTHY",
+      "Phone": "4438028815",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Monkton",
+          "Latitude": "39.53145",
+          "Longitude": "-76.54179",
+          "State": "MD",
+          "StreetLine1": "3908 Stansbury Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21111",
+          "Id": "0194affb-8b7b-3050-9fcd-05e151515e2e",
+          "PhoneNumbers": [
+            "4438028815"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1790783082,
+      "FirstName": "STUART",
+      "LastName": "BASOM",
+      "MiddleName": "S",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "STUART S BASOM",
+      "Phone": "7177379818",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75945",
+          "Longitude": "-76.66978",
+          "State": "PA",
+          "StreetLine1": "16315 Mount Airy Rd",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "1715777f-8eb1-3cfb-8cac-cb8033909b0c",
+          "PhoneNumbers": [
+            "7172272230"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1114410693,
+      "FirstName": "CLAYTON",
+      "LastName": "HEEBNER",
+      "MiddleName": "MATTHEW",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "CLAYTON MATTHEW HEEBNER",
+      "Phone": "7175330215",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1912240904,
+      "FirstName": "CHARLES",
+      "LastName": "CLIFTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "CHARLES CLIFTON",
+      "Phone": "7178122501",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": "Ste C",
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7178122501",
+            "7178122510",
+            "7178516816"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1841587292,
+      "FirstName": "DENNIS",
+      "LastName": "EATON",
+      "MiddleName": "LEE",
+      "Suffix": "JR.",
+      "Title": "DR.",
+      "Specialty": "Pharmacist",
+      "OrganizationName": null,
+      "PresentationName": "DR. DENNIS LEE EATON JR.",
+      "Phone": "4103430110",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Parkton",
+          "Latitude": "39.5911",
+          "Longitude": "-76.66751",
+          "State": "MD",
+          "StreetLine1": "111 Mount Carmel Rd",
+          "StreetLine2": "Ste 100",
+          "ZipCode": "21120",
+          "Id": "071c0b5d-4cc9-3e8b-bd19-e20c61029520",
+          "PhoneNumbers": [
+            "4103430110"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1922532928,
+      "FirstName": "TONI",
+      "LastName": "MCDOWELL",
+      "MiddleName": "DOMINIQUE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "TONI DOMINIQUE MCDOWELL",
+      "Phone": "4109626520",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1861949075,
+      "FirstName": "SHANNON",
+      "LastName": "SUTTON",
+      "MiddleName": "E",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "SHANNON E SUTTON",
+      "Phone": "7177909920",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1578176848,
+      "FirstName": "CAITLIN",
+      "LastName": "QUINTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "CAITLIN QUINTON",
+      "Phone": "7172359890",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890",
+            "7172359894",
+            "7172717954"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1144716283,
+      "FirstName": "TONYA",
+      "LastName": "DOYLE",
+      "MiddleName": "L",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "TONYA L DOYLE",
+      "Phone": "7177909920",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1952340226,
+      "FirstName": "DANIEL",
+      "LastName": "MARTINAZZI",
+      "MiddleName": "K",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "DANIEL K MARTINAZZI",
+      "Phone": "8142241370",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1376021162,
+      "FirstName": "MATTHEW",
+      "LastName": "SCHWARTZ",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MATTHEW SCHWARTZ",
+      "Phone": "7177640144",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1235102492,
+      "FirstName": "GARTH",
+      "LastName": "ESPIGH",
+      "MiddleName": "R",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "GARTH R ESPIGH",
+      "Phone": "8146432476",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1548889306,
+      "FirstName": "NANCY",
+      "LastName": "REINHART",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Advanced Practice Midwife",
+      "OrganizationName": null,
+      "PresentationName": "NANCY REINHART",
+      "Phone": "7173374487",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7177151310",
+            "7178122540"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1639777477,
+      "FirstName": "CAITLIN",
+      "LastName": "CARTWRIGHT",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "CAITLIN CARTWRIGHT",
+      "Phone": "7172705465",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1396786257,
+      "FirstName": "LAURIE",
+      "LastName": "NARTATEZ",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "LAURIE NARTATEZ",
+      "Phone": "8143428304",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 400",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1629308218,
+      "FirstName": "ADAM",
+      "LastName": "HARTMAN",
+      "MiddleName": "MARK",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "ADAM MARK HARTMAN",
+      "Phone": "7172430271",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1154095867,
+      "FirstName": "ROBERT",
+      "LastName": "GASTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "ROBERT GASTON",
+      "Phone": "7177909920",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1770718892,
+      "FirstName": "KEVIN",
+      "LastName": "CARTER",
+      "MiddleName": "P",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "KEVIN P CARTER",
+      "Phone": "4103285012",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51907",
+          "Longitude": "-76.5621",
+          "State": "MD",
+          "StreetLine1": "3346 Paper Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "25708c77-892a-3667-93eb-ff6882674f72",
+          "PhoneNumbers": [
+            "4106664060"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1851627921,
+      "FirstName": "ANNETTE",
+      "LastName": "LAYTON LEWIS",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "ANNETTE LAYTON LEWIS",
+      "Phone": "4437429933",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Sparks",
+          "Latitude": "39.5264",
+          "Longitude": "-76.64509",
+          "State": "MD",
+          "StreetLine1": "913 Ridgebrook Rd",
+          "StreetLine2": null,
+          "ZipCode": "21152",
+          "Id": "d4b25054-ca7f-3882-8e83-02ea9d88ea19",
+          "PhoneNumbers": [
+            "4437429933"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1376130401,
+      "FirstName": "SARAH",
+      "LastName": "MARTZ",
+      "MiddleName": "ELIZABETH",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "SARAH ELIZABETH MARTZ",
+      "Phone": "7179019487",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.77295",
+          "Longitude": "-76.67104",
+          "State": "PA",
+          "StreetLine1": "14625 Mount Airy Rd",
+          "StreetLine2": "Ste 103",
+          "ZipCode": "17361",
+          "Id": "4a7ef86d-1cb1-3831-a67f-d3e61f3aa981",
+          "PhoneNumbers": [
+            "7175848744",
+            "7179016487"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1841439494,
+      "FirstName": "PATRICIA",
+      "LastName": "MCCARTHY",
+      "MiddleName": "ANN",
+      "Suffix": null,
+      "Title": "MS.",
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "MS. PATRICIA ANN MCCARTHY",
+      "Phone": "4106011544",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1063478733,
+      "FirstName": "STEPHEN",
+      "LastName": "CARTER",
+      "MiddleName": "L",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Surgery",
+      "OrganizationName": null,
+      "PresentationName": "DR. STEPHEN L CARTER",
+      "Phone": "7172176986",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Sparks Glencoe",
+          "Latitude": "39.52643",
+          "Longitude": "-76.64493",
+          "State": "MD",
+          "StreetLine1": "909 Ridgebrook Rd",
+          "StreetLine2": null,
+          "ZipCode": "21152",
+          "Id": "80265a9d-2657-388b-ab0b-e131bee753bd",
+          "PhoneNumbers": [
+            "4433839300"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1588921480,
+      "FirstName": "MARTHA",
+      "LastName": "PARSLEY",
+      "MiddleName": "ANN",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Acupuncturist",
+      "OrganizationName": null,
+      "PresentationName": "MARTHA ANN PARSLEY",
+      "Phone": "4105574048",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jarrettsville",
+          "Latitude": "39.5886",
+          "Longitude": "-76.47316",
+          "State": "MD",
+          "StreetLine1": "1117 Baldwin Mill Rd",
+          "StreetLine2": null,
+          "ZipCode": "21084",
+          "Id": "31292f96-d0ac-34ad-9329-9cbdc8276c44",
+          "PhoneNumbers": [
+            "4105574048"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1760958136,
+      "FirstName": "SASHA",
+      "LastName": "MARTIN",
+      "MiddleName": "MARIE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "SASHA MARIE MARTIN",
+      "Phone": "7172424840",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1285871590,
+      "FirstName": "STEPHANIE",
+      "LastName": "ASHTON",
+      "MiddleName": "LYNN",
+      "Suffix": null,
+      "Title": "MRS.",
+      "Specialty": "Physician Assistant",
+      "OrganizationName": null,
+      "PresentationName": "MRS. STEPHANIE LYNN ASHTON",
+      "Phone": "7179880000",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": "Ste B",
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7178127278"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1710919873,
+      "FirstName": "SUSAN",
+      "LastName": "MARTIN",
+      "MiddleName": "E",
+      "Suffix": null,
+      "Title": "MS.",
+      "Specialty": "Advanced Practice Midwife",
+      "OrganizationName": null,
+      "PresentationName": "MS. SUSAN E MARTIN",
+      "Phone": "7178127800",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7177151310",
+            "7178122540"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1619595907,
+      "FirstName": "DONTA",
+      "LastName": "WALTON",
+      "MiddleName": "TAVON",
+      "Suffix": null,
+      "Title": "MR.",
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "MR. DONTA TAVON WALTON",
+      "Phone": "4103288667",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Sparks Glencoe",
+          "Latitude": "39.52643",
+          "Longitude": "-76.64493",
+          "State": "MD",
+          "StreetLine1": "909 Ridgebrook Rd",
+          "StreetLine2": "Ste 300",
+          "ZipCode": "21152",
+          "Id": "80265a9d-2657-388b-ab0b-e131bee753bd",
+          "PhoneNumbers": [
+            "4433839300"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1659997906,
+      "FirstName": "EMILY",
+      "LastName": "NOLL",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "EMILY NOLL",
+      "Phone": "7172202020",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172359890"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1689144180,
+      "FirstName": "NILOCENT",
+      "LastName": "ANTONIO",
+      "MiddleName": "MANRIQUE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "NILOCENT MANRIQUE ANTONIO",
+      "Phone": "2028774200",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1881289841,
+      "FirstName": "VALERIE",
+      "LastName": "HARTNETT",
+      "MiddleName": "ANNE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Nurse Practitioner",
+      "OrganizationName": null,
+      "PresentationName": "VALERIE ANNE HARTNETT",
+      "Phone": "4102960018",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1871017012,
+      "FirstName": "REBECCA",
+      "LastName": "MILLER",
+      "MiddleName": "J",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Optometrist",
+      "OrganizationName": null,
+      "PresentationName": "REBECCA J MILLER",
+      "Phone": "7177577023",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.77295",
+          "Longitude": "-76.67104",
+          "State": "PA",
+          "StreetLine1": "14625 Mount Airy Rd",
+          "StreetLine2": "Ste 109",
+          "ZipCode": "17361",
+          "Id": "4a7ef86d-1cb1-3831-a67f-d3e61f3aa981",
+          "PhoneNumbers": [
+            "7172272030"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1902855042,
+      "FirstName": "PHILIP",
+      "LastName": "TEMPLETON",
+      "MiddleName": "ANTHONY",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Radiology",
+      "OrganizationName": null,
+      "PresentationName": "PHILIP ANTHONY TEMPLETON",
+      "Phone": "4104723275",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Sparks",
+          "Latitude": "39.5491",
+          "Longitude": "-76.63767",
+          "State": "MD",
+          "StreetLine1": "1302 Upper Glencoe Rd",
+          "StreetLine2": null,
+          "ZipCode": "21152",
+          "Id": "2e8ce302-1c8e-3e40-ad1d-13a5abcbd3bd",
+          "PhoneNumbers": [
+            "4104723275"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1568441582,
+      "FirstName": "LAURA",
+      "LastName": "STONE",
+      "MiddleName": "STEWART",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Emergency Medicine",
+      "OrganizationName": null,
+      "PresentationName": "LAURA STEWART STONE",
+      "Phone": "6672142050",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Phoenix",
+          "Latitude": "39.51645",
+          "Longitude": "-76.55978",
+          "State": "MD",
+          "StreetLine1": "14237 Jarrettsville Pike",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "68c37bfe-86f6-3e93-befe-a9cc5f5552df",
+          "PhoneNumbers": [
+            "4106504735"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1407943210,
+      "FirstName": "ARTHUR",
+      "LastName": "COPP",
+      "MiddleName": "LAVERNE",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Chiropractor",
+      "OrganizationName": null,
+      "PresentationName": "DR. ARTHUR LAVERNE COPP",
+      "Phone": "7172351612",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.73904",
+          "Longitude": "-76.7023",
+          "State": "PA",
+          "StreetLine1": "7 W Main St",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "5d8df3f7-af47-34f1-bfdb-7f395c417f53",
+          "PhoneNumbers": [
+            "7172351612"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1942287941,
+      "FirstName": "RICK",
+      "LastName": "MARTIN",
+      "MiddleName": "F.",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Podiatrist",
+      "OrganizationName": null,
+      "PresentationName": "DR. RICK F. MARTIN",
+      "Phone": "7179685564",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76955",
+          "Longitude": "-76.67626",
+          "State": "PA",
+          "StreetLine1": "73 E Forrest Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "b8bf13fa-eefe-34f2-8b47-8e78808fc9fd",
+          "PhoneNumbers": [
+            "7172352272"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1053824151,
+      "FirstName": "HAZEL",
+      "LastName": "WALTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "HAZEL WALTON",
+      "Phone": "7172350199",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76955",
+          "Longitude": "-76.67626",
+          "State": "PA",
+          "StreetLine1": "73 E Forrest Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "b8bf13fa-eefe-34f2-8b47-8e78808fc9fd",
+          "PhoneNumbers": [
+            "7172350199"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1174092787,
+      "FirstName": "ANTOINETTE",
+      "LastName": "TOOLE",
+      "MiddleName": "ELIZABETH",
+      "Suffix": null,
+      "Title": "MRS.",
+      "Specialty": "Behavior Analyst",
+      "OrganizationName": null,
+      "PresentationName": "MRS. ANTOINETTE ELIZABETH TOOLE",
+      "Phone": "4433224344",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Stewartstown",
+          "Latitude": "39.77036",
+          "Longitude": "-76.56636",
+          "State": "PA",
+          "StreetLine1": "6010 Ryan Ln",
+          "StreetLine2": null,
+          "ZipCode": "17363",
+          "Id": "e388278a-17f0-35ef-ab17-4a112c421fcb",
+          "PhoneNumbers": [
+            "4433224344"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1881612638,
+      "FirstName": "MARCIA",
+      "LastName": "MCCARTY",
+      "MiddleName": "SUSAN MILLER",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "DR. MARCIA SUSAN MILLER MCCARTY",
+      "Phone": "7172271619",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.76561",
+          "Longitude": "-76.67428",
+          "State": "PA",
+          "StreetLine1": "278 Prospect Cir",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "fee9c1dd-d7c7-3c7a-9b1f-54d32fbc0269",
+          "PhoneNumbers": [
+            "7172271619"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1700485067,
+      "FirstName": "KHALIA",
+      "LastName": "CHARLTON",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Behavior Technician",
+      "OrganizationName": null,
+      "PresentationName": "KHALIA CHARLTON",
+      "Phone": "4433307900",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "SPARKS",
+          "Latitude": "39.548284",
+          "Longitude": "-76.685072",
+          "State": "MD",
+          "StreetLine1": "14550 YORK RD BLDG SUITE",
+          "StreetLine2": "",
+          "ZipCode": "21152",
+          "Id": "c87ee674-4ddc-3efe-a74e-dfe25da5d7b3",
+          "PhoneNumbers": [
+            "4433307900"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1558936161,
+      "FirstName": "ELIZABETH",
+      "LastName": "MARTINEZ",
+      "MiddleName": "GRACE",
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Behavior Technician",
+      "OrganizationName": null,
+      "PresentationName": "ELIZABETH GRACE MARTINEZ",
+      "Phone": "4433307900",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "SPARKS",
+          "Latitude": "39.548284",
+          "Longitude": "-76.685072",
+          "State": "MD",
+          "StreetLine1": "14550 YORK RD BLDG SUITE",
+          "StreetLine2": "",
+          "ZipCode": "21152",
+          "Id": "c87ee674-4ddc-3efe-a74e-dfe25da5d7b3",
+          "PhoneNumbers": [
+            "4433307900"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1881282515,
+      "FirstName": "DANIELA",
+      "LastName": "MARTINEZ",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Behavior Technician",
+      "OrganizationName": null,
+      "PresentationName": "DANIELA MARTINEZ",
+      "Phone": "4433307900",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "SPARKS",
+          "Latitude": "39.548284",
+          "Longitude": "-76.685072",
+          "State": "MD",
+          "StreetLine1": "14550 YORK RD BLDG SUITE",
+          "StreetLine2": "",
+          "ZipCode": "21152",
+          "Id": "c87ee674-4ddc-3efe-a74e-dfe25da5d7b3",
+          "PhoneNumbers": [
+            "4433307900"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1558329052,
+      "FirstName": "HOLLY",
+      "LastName": "EATON",
+      "MiddleName": "JILL",
+      "Suffix": null,
+      "Title": "MRS.",
+      "Specialty": "Physical Therapist",
+      "OrganizationName": null,
+      "PresentationName": "MRS. HOLLY JILL EATON",
+      "Phone": "7172356900",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.77967",
+          "Longitude": "-76.67391",
+          "State": "PA",
+          "StreetLine1": "28 Northbrook Ln",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "923e3e17-d790-392d-a3b2-0a2a67e48412",
+          "PhoneNumbers": [
+            "7172356900"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1346432028,
+      "FirstName": "KENNETH",
+      "LastName": "MINTON",
+      "MiddleName": "WALTER",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Pathology",
+      "OrganizationName": null,
+      "PresentationName": "DR. KENNETH WALTER MINTON",
+      "Phone": "3019628124",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Jacksonville",
+          "Latitude": "39.51662",
+          "Longitude": "-76.56347",
+          "State": "MD",
+          "StreetLine1": "14101 Robcaste Rd",
+          "StreetLine2": null,
+          "ZipCode": "21131",
+          "Id": "4fd5d258-03db-36a2-bf8d-cafcf58cef26",
+          "PhoneNumbers": [
+            "3019628124"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1871728691,
+      "FirstName": "SHAILAJA",
+      "LastName": "BHATIA",
+      "MiddleName": "SIDDHARTHA",
+      "Suffix": null,
+      "Title": "MS.",
+      "Specialty": "Family Medicine",
+      "OrganizationName": null,
+      "PresentationName": "MS. SHAILAJA SIDDHARTHA BHATIA",
+      "Phone": "4085204510",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77484",
+          "Longitude": "-76.66191",
+          "State": "PA",
+          "StreetLine1": "13515 Wolfe Rd",
+          "StreetLine2": "Ste C",
+          "ZipCode": "17349",
+          "Id": "d66dbec2-dfe6-3457-8180-3dd4cbed9d87",
+          "PhoneNumbers": [
+            "7178122501"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1619348299,
+      "FirstName": "JONATHAN",
+      "LastName": "BURCHARD",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Counselor",
+      "OrganizationName": null,
+      "PresentationName": "JONATHAN BURCHARD",
+      "Phone": "7175099845",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.7704",
+          "Longitude": "-76.67397",
+          "State": "PA",
+          "StreetLine1": "74 E Forrest Ave",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "d7d2e5c9-2442-322d-a0df-1aa4fd263eca",
+          "PhoneNumbers": [
+            "4108934600",
+            "4433083542",
+            "7174120245",
+            "7177660935"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "M",
+      "Id": 1376664557,
+      "FirstName": "GARY",
+      "LastName": "BERT",
+      "MiddleName": "S",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Dentist",
+      "OrganizationName": null,
+      "PresentationName": "DR. GARY S BERT",
+      "Phone": "4108235950",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 500",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172358234"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1457402687,
+      "FirstName": "SHANNON",
+      "LastName": "ERNY",
+      "MiddleName": null,
+      "Suffix": null,
+      "Title": null,
+      "Specialty": "Dentist",
+      "OrganizationName": null,
+      "PresentationName": "SHANNON ERNY",
+      "Phone": "4102358525",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "Shrewsbury",
+          "Latitude": "39.75945",
+          "Longitude": "-76.66978",
+          "State": "PA",
+          "StreetLine1": "16315 Mount Airy Rd",
+          "StreetLine2": null,
+          "ZipCode": "17361",
+          "Id": "1715777f-8eb1-3cfb-8cac-cb8033909b0c",
+          "PhoneNumbers": [
+            "7177595063"
+          ]
+        },
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": null,
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172358234"
+          ]
+        }
+      ]
+    },
+    {
+      "Email": null,
+      "Gender": "F",
+      "Id": 1548610363,
+      "FirstName": "TINA",
+      "LastName": "TAYLOR",
+      "MiddleName": "HSU",
+      "Suffix": null,
+      "Title": "DR.",
+      "Specialty": "Dentist",
+      "OrganizationName": null,
+      "PresentationName": "DR. TINA HSU TAYLOR",
+      "Phone": "7177667025",
+      "IsIndividual": true,
+      "Type": "individual",
+      "Addresses": [
+        {
+          "City": "New Freedom",
+          "Latitude": "39.77356",
+          "Longitude": "-76.66492",
+          "State": "PA",
+          "StreetLine1": "781 Far Hills Dr",
+          "StreetLine2": "Ste 500",
+          "ZipCode": "17349",
+          "Id": "247baeb5-5865-398a-8738-8cdf44b7e4bf",
+          "PhoneNumbers": [
+            "7172358234"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="10">
+<!--<suite name="All Test Suite">-->
+    <test name="Generating Bearer Token and session id">
+        <classes>
+<!--            <parameter name="testRun" value="T"/>-->
+            <class name="modules.BaseClass"/>
+        </classes>
+    </test>
+    <test name="Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.PharmacyClass"/>
+        </classes>
+    </test>
+    <test name="Test_1_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_1"/>
+        </classes>
+    </test>
+    <test name="Test_2_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_2"/>
+        </classes>
+    </test>
+    <test name="Test_3_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_3"/>
+        </classes>
+    </test>
+    <test name="Test_4_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_4"/>
+        </classes>
+    </test>
+    <test name="Test_5_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_5"/>
+        </classes>
+    </test>
+    <test name="Test_6_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_6"/>
+        </classes>
+    </test>
+    <test name="Test_7_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_7"/>
+        </classes>
+    </test>
+    <test name="Test_8_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_8"/>
+        </classes>
+    </test>
+    <test name="Test_9_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_9"/>
+        </classes>
+    </test>
+    <test name="Test_10_____Post, Get, Put for Pharmacy">
+        <classes>
+            <class name="modules.Test_10"/>
+        </classes>
+    </test>
+</suite>
+

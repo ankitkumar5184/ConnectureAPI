@@ -1,0 +1,14 @@
+[
+  {
+    "EffectiveDate": "10-01-2022",
+    "Zip": "90010",
+    "Fips": "06037",
+    "HealthStatus": 4,
+    "Birthdate": "01-01-1960",
+    "Profile": {
+      "FirstName": "firstname",
+      "LastName": "lastname",
+      "MBI": "1EG4TE5MD73"
+    }
+  }
+]
